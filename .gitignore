@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sesiones autenticadas y evidencia local: nunca versionar
+auth_state.json
+docs/mapping/**/*.html
+docs/mapping/**/*.png
+reporte_html/
+allure-results/
+allure-report/
+evidencia/
+reporte_html/

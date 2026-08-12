@@ -1,0 +1,9 @@
+[
+  {
+    "modulo": "Contenido Multimedia",
+    "submodulos": [
+      {"id": "imagenes", "nombre": "Imágenes", "steps": "tests/test_steps_imagenes.py"},
+      {"id": "videos", "nombre": "Videos", "steps": "tests/test_steps_videos.py"}
+    ]
+  }
+]
